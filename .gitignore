@@ -21,3 +21,5 @@ typedef.list
 /.vs
 /compile_commands.json
 /.DS_Store
+
+/tsl/test/shared/sql/ordered_append-9.6.sql
